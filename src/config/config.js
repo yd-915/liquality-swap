@@ -1,6 +1,6 @@
 export default {
-  hostName: 'Liquality',
-  hostIcon: 'https://raw.githubusercontent.com/liquality/chainabstractionlayer/master/liquality-logo.png',
+  hostName: 'Iftiin-Swap',
+  hostIcon: 'https://i.ibb.co/bP1rLg2/Group-164-6.png',
   agents: ['https://liquality.io/swap-testnet/agent'],
   assets: {
     MATIC: {
